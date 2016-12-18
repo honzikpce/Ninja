@@ -1,0 +1,3 @@
+/Users/cablegibbon443/Dropbox/dev/Ninja/Ninja/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cablegibbon443/Dropbox/dev/Ninja/Ninja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cablegibbon443/Dropbox/dev/Ninja/Ninja/cmake-build-debug/CMakeFiles/Ninja.dir

@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/cablegibbon443/Dropbox/dev/Ninja/Ninja
+Dynamic libraries : = /Users/cablegibbon443/Dropbox/dev/libCEGUIBase-0_d.dylib;/Users/cablegibbon443/Dropbox/dev/libCEGUICommonDialogs-0_d.dylib;/Users/cablegibbon443/Dropbox/dev/libCEGUICoreWindowRendererSet_d.dylib;/Users/cablegibbon443/Dropbox/dev/libCEGUIExpatParser_d.dylib;/Users/cablegibbon443/Dropbox/dev/libCEGUILibXMLParser_d.dylib;/Users/cablegibbon443/Dropbox/dev/libCEGUIOpenGLRenderer-0_d.dylib;/Users/cablegibbon443/Dropbox/dev/libCEGUISILLYImageCodec_d.dylib
+GLEW lib : = /usr/local/lib/libGLEW.dylib
+CMAKE_MODULE_PATH: /Users/cablegibbon443/Dropbox/dev/Ninja/Ninja/cmake
+SDL Library : /Library/Frameworks/SDL2.framework// /Library/Frameworks/SDL2.framework/Headers
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/cablegibbon443/Dropbox/dev/Ninja/Ninja/cmake-build-release

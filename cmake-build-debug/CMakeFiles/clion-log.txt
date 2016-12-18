@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/cablegibbon443/Dropbox/dev/Ninja/Ninja
+CMAKE_MODULE_PATH: /Users/cablegibbon443/Dropbox/dev/Ninja/Ninja/cmake
+SDL Library : /Library/Frameworks/SDL2.framework// /Library/Frameworks/SDL2.framework/Headers
+/Users/cablegibbon443/Dropbox/dev/libs/libBox2D.a
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/cablegibbon443/Dropbox/dev/Ninja/Ninja/cmake-build-debug
